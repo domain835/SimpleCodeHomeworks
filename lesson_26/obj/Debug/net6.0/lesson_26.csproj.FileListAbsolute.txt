@@ -1,0 +1,15 @@
+C:\Users\D835\Desktop\C#\SimpleCode\Homeworks\SimpleCodeHomeworks\lesson_26\bin\Debug\net6.0\lesson_26.exe
+C:\Users\D835\Desktop\C#\SimpleCode\Homeworks\SimpleCodeHomeworks\lesson_26\bin\Debug\net6.0\lesson_26.deps.json
+C:\Users\D835\Desktop\C#\SimpleCode\Homeworks\SimpleCodeHomeworks\lesson_26\bin\Debug\net6.0\lesson_26.runtimeconfig.json
+C:\Users\D835\Desktop\C#\SimpleCode\Homeworks\SimpleCodeHomeworks\lesson_26\bin\Debug\net6.0\lesson_26.dll
+C:\Users\D835\Desktop\C#\SimpleCode\Homeworks\SimpleCodeHomeworks\lesson_26\bin\Debug\net6.0\lesson_26.pdb
+C:\Users\D835\Desktop\C#\SimpleCode\Homeworks\SimpleCodeHomeworks\lesson_26\obj\Debug\net6.0\lesson_26.csproj.AssemblyReference.cache
+C:\Users\D835\Desktop\C#\SimpleCode\Homeworks\SimpleCodeHomeworks\lesson_26\obj\Debug\net6.0\lesson_26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D835\Desktop\C#\SimpleCode\Homeworks\SimpleCodeHomeworks\lesson_26\obj\Debug\net6.0\lesson_26.AssemblyInfoInputs.cache
+C:\Users\D835\Desktop\C#\SimpleCode\Homeworks\SimpleCodeHomeworks\lesson_26\obj\Debug\net6.0\lesson_26.AssemblyInfo.cs
+C:\Users\D835\Desktop\C#\SimpleCode\Homeworks\SimpleCodeHomeworks\lesson_26\obj\Debug\net6.0\lesson_26.csproj.CoreCompileInputs.cache
+C:\Users\D835\Desktop\C#\SimpleCode\Homeworks\SimpleCodeHomeworks\lesson_26\obj\Debug\net6.0\lesson_26.dll
+C:\Users\D835\Desktop\C#\SimpleCode\Homeworks\SimpleCodeHomeworks\lesson_26\obj\Debug\net6.0\refint\lesson_26.dll
+C:\Users\D835\Desktop\C#\SimpleCode\Homeworks\SimpleCodeHomeworks\lesson_26\obj\Debug\net6.0\lesson_26.pdb
+C:\Users\D835\Desktop\C#\SimpleCode\Homeworks\SimpleCodeHomeworks\lesson_26\obj\Debug\net6.0\lesson_26.genruntimeconfig.cache
+C:\Users\D835\Desktop\C#\SimpleCode\Homeworks\SimpleCodeHomeworks\lesson_26\obj\Debug\net6.0\ref\lesson_26.dll
