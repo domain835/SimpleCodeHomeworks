@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            /* Ввод массива с клавиатуры */
+            /* Вывод массива в обратном порядке */
 
             Console.Write("Пожалуйста ведите количество элементов в массиве: ");
 
@@ -22,7 +22,7 @@
 
             Console.WriteLine("\nВывод массива: ");
 
-            for (int i = 0; i < array.Length; i++)
+            for (int i = array.Length - 1; i > 0; i--)
             {
                 Console.WriteLine(array[i]);
             }
