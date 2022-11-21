@@ -4,9 +4,9 @@
     {
         static void Main(string[] args)
         {
-            /* Найти сумму четных чисел в мвссиве */
+            /* Найти наименьшее число в массиве */
 
-            int sum = 0;
+            int result = 0;
 
             Console.Write("Пожалуйста ведите количество элементов в массиве: ");
 
@@ -22,15 +22,15 @@
                 array[i] = int.Parse(Console.ReadLine());
             }
 
-            Console.WriteLine("\nСумма четных чисел: ");
+            Console.WriteLine("\nНаименьшее число в массиве: ");
 
             for (int i = 0; i < array.Length; i++)
             {
-                if (array[i] % 2 == 0)
-                    sum += array[i];
+                if (result > array[i] || result <= 0)
+                    result = array[i];
             }
 
-            Console.WriteLine(sum);
+            Console.WriteLine(result);
             Console.ReadLine();
 
 
