@@ -6,8 +6,6 @@
         {
             /* Найти наименьшее число в массиве */
 
-            int result = 0;
-
             Console.Write("Пожалуйста ведите количество элементов в массиве: ");
 
             int elementsCount = int.Parse(Console.ReadLine());
@@ -24,13 +22,15 @@
 
             Console.WriteLine("\nНаименьшее число в массиве: ");
 
-            for (int i = 0; i < array.Length; i++)
+            int minValue = array[0];
+
+            for (int i = 1; i < array.Length; i++)
             {
-                if (result > array[i] || result <= 0)
-                    result = array[i];
+                if (minValue > array[i])
+                    minValue = array[i];
             }
 
-            Console.WriteLine(result);
+            Console.WriteLine(minValue);
             Console.ReadLine();
 
 
