@@ -22,7 +22,7 @@
 
             Console.WriteLine("\nВывод массива: ");
 
-            for (int i = array.Length - 1; i > 0; i--)
+            for (int i = array.Length - 1; i >= 0; i--)
             {
                 Console.WriteLine(array[i]);
             }
