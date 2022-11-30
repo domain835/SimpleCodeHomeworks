@@ -2,34 +2,49 @@
 {
     class Program
     {
-        static string CreateString(string symbol, int count)
-        {
-            string result = "";
+        /*        static string CreateString(string symbol, int count)
+                {
+                    string result = "";
 
+                    for (int i = 0; i < count; i++)
+                    {
+                        result = result + symbol;
+                    }
+
+                    return result;
+                }
+                static void Main(string[] args)
+                {
+
+                    Console.Write("Пожалуйста введите символ: ");
+                    string symbol = Console.ReadLine();
+
+                    Console.Write("Пожалуйста введите количество: ");
+                    int count = int.Parse(Console.ReadLine());
+
+                    Console.WriteLine(CreateString(symbol, count));
+                }*/
+
+        /* Solution from Teacher */
+
+        static void CreateString(char symbol, uint count)
+        {
             for (int i = 0; i < count; i++)
             {
-                result = result + symbol;
+                Console.Write(symbol);
             }
-
-            return result;
         }
+
         static void Main(string[] args)
         {
 
             Console.Write("Пожалуйста введите символ: ");
-            string symbol = Console.ReadLine();
+            char symbol = Console.ReadKey().KeyChar;
 
-            Console.Write("Пожалуйста введите количество: ");
-            int count = int.Parse(Console.ReadLine());
+            Console.Write("\nПожалуйста введите количество: ");
+            uint count = uint.Parse(Console.ReadLine());
 
-            Console.WriteLine(CreateString(symbol, count));
-            
-
-          /*  for (int i = 0; i < count; i++)
-            {
-                Console.Write(symbol);
-            }*/
-
+            CreateString(symbol, count);
         }
     }
 }
