@@ -25,6 +25,10 @@
         }
 
         /* Adding value to end array */
+        static void AddLast(ref int[] arr, int value)
+        {
+            Insert(ref arr, value, arr.Length);
+        }
 
         static void Main(string[] args)
         {
