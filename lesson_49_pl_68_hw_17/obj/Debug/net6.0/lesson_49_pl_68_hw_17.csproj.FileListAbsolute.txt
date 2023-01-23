@@ -1,0 +1,15 @@
+C:\Users\D835\Desktop\C#\SimpleCode\Homeworks\SimpleCodeHomeworks\lesson_49_pl_68_hw_17\bin\Debug\net6.0\lesson_49_pl_68_hw_17.exe
+C:\Users\D835\Desktop\C#\SimpleCode\Homeworks\SimpleCodeHomeworks\lesson_49_pl_68_hw_17\bin\Debug\net6.0\lesson_49_pl_68_hw_17.deps.json
+C:\Users\D835\Desktop\C#\SimpleCode\Homeworks\SimpleCodeHomeworks\lesson_49_pl_68_hw_17\bin\Debug\net6.0\lesson_49_pl_68_hw_17.runtimeconfig.json
+C:\Users\D835\Desktop\C#\SimpleCode\Homeworks\SimpleCodeHomeworks\lesson_49_pl_68_hw_17\bin\Debug\net6.0\lesson_49_pl_68_hw_17.dll
+C:\Users\D835\Desktop\C#\SimpleCode\Homeworks\SimpleCodeHomeworks\lesson_49_pl_68_hw_17\bin\Debug\net6.0\lesson_49_pl_68_hw_17.pdb
+C:\Users\D835\Desktop\C#\SimpleCode\Homeworks\SimpleCodeHomeworks\lesson_49_pl_68_hw_17\obj\Debug\net6.0\lesson_49_pl_68_hw_17.csproj.AssemblyReference.cache
+C:\Users\D835\Desktop\C#\SimpleCode\Homeworks\SimpleCodeHomeworks\lesson_49_pl_68_hw_17\obj\Debug\net6.0\lesson_49_pl_68_hw_17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D835\Desktop\C#\SimpleCode\Homeworks\SimpleCodeHomeworks\lesson_49_pl_68_hw_17\obj\Debug\net6.0\lesson_49_pl_68_hw_17.AssemblyInfoInputs.cache
+C:\Users\D835\Desktop\C#\SimpleCode\Homeworks\SimpleCodeHomeworks\lesson_49_pl_68_hw_17\obj\Debug\net6.0\lesson_49_pl_68_hw_17.AssemblyInfo.cs
+C:\Users\D835\Desktop\C#\SimpleCode\Homeworks\SimpleCodeHomeworks\lesson_49_pl_68_hw_17\obj\Debug\net6.0\lesson_49_pl_68_hw_17.csproj.CoreCompileInputs.cache
+C:\Users\D835\Desktop\C#\SimpleCode\Homeworks\SimpleCodeHomeworks\lesson_49_pl_68_hw_17\obj\Debug\net6.0\lesson_49_pl_68_hw_17.dll
+C:\Users\D835\Desktop\C#\SimpleCode\Homeworks\SimpleCodeHomeworks\lesson_49_pl_68_hw_17\obj\Debug\net6.0\refint\lesson_49_pl_68_hw_17.dll
+C:\Users\D835\Desktop\C#\SimpleCode\Homeworks\SimpleCodeHomeworks\lesson_49_pl_68_hw_17\obj\Debug\net6.0\lesson_49_pl_68_hw_17.pdb
+C:\Users\D835\Desktop\C#\SimpleCode\Homeworks\SimpleCodeHomeworks\lesson_49_pl_68_hw_17\obj\Debug\net6.0\lesson_49_pl_68_hw_17.genruntimeconfig.cache
+C:\Users\D835\Desktop\C#\SimpleCode\Homeworks\SimpleCodeHomeworks\lesson_49_pl_68_hw_17\obj\Debug\net6.0\ref\lesson_49_pl_68_hw_17.dll
